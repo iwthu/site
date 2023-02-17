@@ -1,0 +1,42 @@
+
+body {
+    background-color: #FCEFFF;
+    font-size: 18px;
+    margin: auto;
+    color: #022E57;
+    width: 80%;
+}
+th, td {
+    height: 40px;
+    margin: auto;
+    width: 10%;
+}
+.skills {
+    text-align: left;
+}
+.work {
+    text-align: left;
+}
+hr {
+    border-style: none;
+    border-top: 5px dotted #FF96AD;
+    width: 4%;
+}
+
+img {
+    height: 150px;
+}
+
+h1 {
+    color: #005A8D;
+}
+
+h3 {
+    color: #005A8D;
+}
+
+::selection {
+    background: #FFF5FD;
+    color: #FF96AD;
+    text-shadow: none;
+}
