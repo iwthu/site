@@ -27,8 +27,8 @@ h3 {
 hr {
     border-style: none;
     border-top: 5px dotted #ffdcc4;
-    width: 4%;
-    margin: 50px auto;
+    width: 5%;
+    margin: 40px auto;
 }
 
 .subtitle {
@@ -62,9 +62,7 @@ hr {
   color: #FFA45C;
   height: 678px;
   text-align: center;
-  top: 60px;
   padding: 40px;
-  border-top: 60px;
 }
 
 .clouds {
@@ -96,8 +94,8 @@ hr {
 }
 
 .profile {
-  width: 85%;
   margin: 0 auto;
+  padding: 0 60px 30px 60px;
 }
 
 .skills {
@@ -172,4 +170,3 @@ a:-webkit-any-link {
   top: 40px;
   font-size: 13px;
 }
-
